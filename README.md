@@ -99,8 +99,7 @@ Open http://localhost:3000
  to view in browser.
 
 ##  Live Demo
-
-[View LUXE Clothing Live Website](https://luxe-clothing-store.vercel.app)
+[View LUXE Clothing Live Website](https://luxe-clothing-store-iota.vercel.app/)
 
  Author
 
