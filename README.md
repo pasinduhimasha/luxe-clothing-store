@@ -98,7 +98,10 @@ npm run dev
 Open http://localhost:3000
  to view in browser.
 
+##  Live Demo
 
-👤 Author
+[View LUXE Clothing Live Website](https://luxe-clothing-store.vercel.app)
+
+ Author
 
 Student Project – Clothing Website
