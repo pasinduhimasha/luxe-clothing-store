@@ -27,6 +27,9 @@ It combines **Next.js**, **Supabase**, **Tailwind CSS**, and **Framer Motion** t
 
 ---
 
+##  Live Demo
+[View LUXE Clothing Live Website](https://luxe-clothing-store-iota.vercel.app/)
+
 ##  Screenshots
 
 ### Homepage (Before Login)
@@ -98,8 +101,7 @@ npm run dev
 Open http://localhost:3000
  to view in browser.
 
-##  Live Demo
-[View LUXE Clothing Live Website](https://luxe-clothing-store-iota.vercel.app/)
+
 
  Author
 
